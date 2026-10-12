@@ -22,7 +22,7 @@ vectorstore = Chroma(
 # ==========================================
 # 2. Poser une question au système (Retrieval)
 # ==========================================
-query = "What is an AI Agent?"  # يمكنك تغيير هذا السؤال حسب رغبتك
+query = "What is an AI Agent?" 
 print(f"\n--> 3. Recherche des passages pertinents pour la question : '{query}'\n")
 
 # Recherche des 3 chunks les plus proches/pertinents
