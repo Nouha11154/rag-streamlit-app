@@ -1,0 +1,4 @@
+.streamlit/
+chroma_db/
+.env
+data/
